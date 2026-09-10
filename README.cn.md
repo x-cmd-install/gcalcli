@@ -4,7 +4,7 @@
 
 Google Calendar Command Line Interface
 
-![gcalcli](https://repo.x-cmd.io/gcalcli.svg)
+![gcalcli](https://repo.x-cmd.io/gcalcli.svg?lang=zh)
 
 ## 安装
 
@@ -21,7 +21,6 @@ x install gcalcli
 
 - **最新版本**: `v4.5.1` (2024-10-04)
 - **最近提交**: 2025-10-25
-- **发布时间**: 2024-10-04T20:48:38Z
 
 ## 流行度
 
@@ -70,4 +69,4 @@ gcalcli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:28:42Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:51:19Z._
