@@ -12,6 +12,28 @@ Google Calendar Command Line Interface
 x install gcalcli
 ```
 
+## Code insight
+
+Total: **7,864** lines of code across **35** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 4,626 | 284 | 1,009 | 28 |
+| Json | 3,119 | 0 | 0 | 4 |
+| Toml | 71 | 2 | 12 | 1 |
+| Ini | 35 | 0 | 6 | 1 |
+| Sh | 7 | 1 | 1 | 1 |
+
+## OpenSSF Scorecard
+
+Overall score: **4.5 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (2/10) — Found 5/25 approved changesets -- score normalized to 2
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Packaging** (-1/10) — packaging workflow not detected
+
 ## Source
 
 - **Upstream**: <https://github.com/insanum/gcalcli>
@@ -35,30 +57,27 @@ x install gcalcli
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 0 | 1 | 0 | 1 | 0 |
 | 360d | 2025-09-15 | 0 | 1 | 9 | 3 | 14 | 1 |
+| last720d | 2024-09-20 | 2 | 27 | 10 | 28 | 37 | 34 |
 
-## Code size
+## Distribution status
 
-Total: **7,864** lines of code across **35** files in the top 5 languages.
+Reported by **48** distros on [repology.org](https://repology.org/project/gcalcli). **21** are ✅ on the latest upstream release, **25** are ⚠️ on an older version.
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 4,626 | 284 | 1,009 | 28 |
-| Json | 3,119 | 0 | 0 | 4 |
-| Toml | 71 | 2 | 12 | 1 |
-| Ini | 35 | 0 | 6 | 1 |
-| Sh | 7 | 1 | 1 | 1 |
-
-## OpenSSF Scorecard
-
-Overall score: **4.5 / 10**
-
-Lowest-scoring checks:
-
-- **Code-Review** (2/10) — Found 5/25 approved changesets -- score normalized to 2
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `4.5.1` | ✅ latest |
+| Debian 14 | `4.5.1` | ✅ latest |
+| Debian 13 | `4.5.1` | ✅ latest |
+| Ubuntu 26.04 LTS | `4.5.1` | ✅ latest |
+| Ubuntu 24.04 LTS | `4.3.0` | ⚠️ outdated |
+| Homebrew | `4.5.1` | ✅ latest |
+| Nix unstable | `4.5.1` | ✅ latest |
+| Void | `4.3.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `4.3.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -69,4 +88,4 @@ Install metadata for gcalcli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:51:18Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:25:42Z._
