@@ -26,13 +26,13 @@ Total: **7,864** lines of code across **35** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.5 / 10**
+Overall score: **4.7 / 10**
 
 Lowest-scoring checks:
 
 - **Code-Review** (2/10) — Found 5/25 approved changesets -- score normalized to 2
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (2/10) — 0 commit(s) and 3 issue activity found in the last 90 days -- score normalized to 2
 
 ## Source
 
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,777 · **Forks**: 339 · **Open issues**: 616 · **Contributors**: 56
+- **Stars**: 3,778 · **Forks**: 339 · **Open issues**: 617 · **Contributors**: 56
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 176 · **Open PRs**: 13 · **Closed issues**: 458 · **Open issues**: 158 · **Commits**: 616
+- **Releases**: 4 · **Merged PRs**: 176 · **Open PRs**: 13 · **Closed issues**: 458 · **Open issues**: 159 · **Commits**: 616
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-19 | 0 | 0 | 1 | 0 | 2 | 0 |
-| last60d | 2026-08-20 | 0 | 0 | 1 | 0 | 2 | 0 |
-| 90d | 2026-07-21 | 0 | 0 | 1 | 0 | 2 | 0 |
-| last180d | 2026-04-22 | 0 | 0 | 1 | 0 | 3 | 0 |
-| 360d | 2025-10-24 | 0 | 0 | 10 | 0 | 14 | 0 |
-| last720d | 2024-10-29 | 0 | 6 | 10 | 12 | 31 | 7 |
+| 30d | 2026-09-20 | 0 | 0 | 1 | 0 | 3 | 0 |
+| last60d | 2026-08-21 | 0 | 0 | 1 | 0 | 3 | 0 |
+| 90d | 2026-07-22 | 0 | 0 | 1 | 0 | 3 | 0 |
+| last180d | 2026-04-23 | 0 | 0 | 1 | 0 | 4 | 0 |
+| 360d | 2025-10-25 | 0 | 0 | 10 | 0 | 15 | 0 |
+| last720d | 2024-10-30 | 0 | 6 | 10 | 12 | 32 | 7 |
 
 ## Improve this data
 
@@ -72,4 +72,4 @@ Install metadata for gcalcli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261019.yml` · 2026-10-19T04:28:28Z._
+_Snapshot: `data/card/261020.yml` · 2026-10-20T04:39:03Z._
