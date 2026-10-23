@@ -46,7 +46,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,778 · **Forks**: 339 · **Open issues**: 617 · **Contributors**: 56
+- **Stars**: 3,780 · **Forks**: 339 · **Open issues**: 617 · **Contributors**: 56
 
 ## Totals (cumulative)
 
@@ -56,12 +56,28 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 0 | 1 | 0 | 3 | 0 |
-| last60d | 2026-08-23 | 0 | 0 | 1 | 0 | 3 | 0 |
-| 90d | 2026-07-24 | 0 | 0 | 1 | 0 | 3 | 0 |
-| last180d | 2026-04-25 | 0 | 0 | 1 | 0 | 4 | 0 |
-| 360d | 2025-10-27 | 0 | 0 | 10 | 0 | 14 | 0 |
-| last720d | 2024-11-01 | 0 | 6 | 10 | 12 | 32 | 7 |
+| 30d | 2026-09-23 | 0 | 0 | 1 | 0 | 3 | 0 |
+| last60d | 2026-08-24 | 0 | 0 | 1 | 0 | 3 | 0 |
+| 90d | 2026-07-25 | 0 | 0 | 1 | 0 | 3 | 0 |
+| last180d | 2026-04-26 | 0 | 0 | 1 | 0 | 4 | 0 |
+| 360d | 2025-10-28 | 0 | 0 | 10 | 0 | 14 | 0 |
+| last720d | 2024-11-02 | 0 | 6 | 10 | 12 | 32 | 7 |
+
+## Distribution status
+
+Reported by **46** distros on [repology.org](https://repology.org/project/gcalcli). **21** are ✅ on the latest upstream release, **23** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `4.5.1` | ✅ latest |
+| Debian 14 | `4.5.1` | ✅ latest |
+| Debian 13 | `4.5.1` | ✅ latest |
+| Ubuntu 26.04 LTS | `4.5.1` | ✅ latest |
+| Ubuntu 24.04 LTS | `4.3.0` | ⚠️ outdated |
+| Homebrew | `4.5.1` | ✅ latest |
+| Nix unstable | `4.5.1` | ✅ latest |
+| Void | `4.3.0` | ⚠️ outdated |
+| openSUSE Tumbleweed | `4.3.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -72,4 +88,4 @@ Install metadata for gcalcli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:29:54Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:35:13Z._
