@@ -1,31 +1,3 @@
-- repo: devuan_4_0
-  subrepo: chimaera/main
-  srcname: gcalcli
-  binnames:
-    - gcalcli
-  visiblename: gcalcli
-  version: 4.3.0
-  origversion: 4.3.0-1
-  status: outdated
-  maintainers:
-    - debian@onerussian.com
-    - unit193@debian.org
-  categories:
-    - utils
-- repo: deepin_25
-  subrepo: community
-  srcname: gcalcli
-  binnames:
-    - gcalcli
-  visiblename: gcalcli
-  version: 4.5.1
-  origversion: 4.5.1-1
-  status: newest
-  maintainers:
-    - debian@onerussian.com
-    - unit193@debian.org
-  categories:
-    - misc
 - repo: aur
   srcname: gcalcli
   binname: gcalcli
@@ -133,6 +105,34 @@
   maintainers:
     - debian@onerussian.com
     - unit193@ubuntu.com
+- repo: deepin_25
+  subrepo: community
+  srcname: gcalcli
+  binnames:
+    - gcalcli
+  visiblename: gcalcli
+  version: 4.5.1
+  origversion: 4.5.1-1
+  status: newest
+  maintainers:
+    - debian@onerussian.com
+    - unit193@debian.org
+  categories:
+    - misc
+- repo: devuan_4_0
+  subrepo: chimaera/main
+  srcname: gcalcli
+  binnames:
+    - gcalcli
+  visiblename: gcalcli
+  version: 4.3.0
+  origversion: 4.3.0-1
+  status: outdated
+  maintainers:
+    - debian@onerussian.com
+    - unit193@debian.org
+  categories:
+    - utils
 - repo: devuan_unstable
   subrepo: unstable/main
   srcname: gcalcli
@@ -573,6 +573,20 @@
     - universe/utils
 - repo: ubuntu_26_10
   subrepo: stonking/universe
+  srcname: gcalcli
+  binnames:
+    - gcalcli
+  visiblename: gcalcli
+  version: 4.5.1
+  origversion: 4.5.1-1.1
+  status: newest
+  maintainers:
+    - debian@onerussian.com
+    - unit193@debian.org
+  categories:
+    - universe/utils
+- repo: ubuntu_27_04
+  subrepo: tenacious/universe
   srcname: gcalcli
   binnames:
     - gcalcli
