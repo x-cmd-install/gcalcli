@@ -1,3 +1,45 @@
+- repo: pardus_21
+  subrepo: main
+  srcname: gcalcli
+  binnames:
+    - gcalcli
+  visiblename: gcalcli
+  version: 4.3.0
+  origversion: 4.3.0-1
+  status: outdated
+  maintainers:
+    - debian@onerussian.com
+    - unit193@debian.org
+  categories:
+    - utils
+- repo: parrot
+  subrepo: parrot/main
+  srcname: gcalcli
+  binnames:
+    - gcalcli
+  visiblename: gcalcli
+  version: 4.5.1
+  origversion: 4.5.1-1
+  status: newest
+  maintainers:
+    - debian@onerussian.com
+    - unit193@debian.org
+  categories:
+    - utils
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: gcalcli
+  binnames:
+    - gcalcli
+  visiblename: gcalcli
+  version: 4.5.1
+  origversion: 4.5.1-1
+  status: newest
+  maintainers:
+    - debian@onerussian.com
+    - unit193@debian.org
+  categories:
+    - utils
 - repo: aur
   srcname: gcalcli
   binname: gcalcli
@@ -93,18 +135,6 @@
     - unit193@debian.org
   categories:
     - utils
-- repo: deepin_unstable
-  subrepo: main
-  srcname: gcalcli
-  binnames:
-    - gcalcli
-  visiblename: gcalcli
-  version: 4.0.4
-  origversion: 4.0.4-2
-  status: outdated
-  maintainers:
-    - debian@onerussian.com
-    - unit193@ubuntu.com
 - repo: deepin_25
   subrepo: community
   srcname: gcalcli
@@ -293,48 +323,6 @@
     - MIT
   categories:
     - Productivity/Office/Organizers
-- repo: pardus_21
-  subrepo: main
-  srcname: gcalcli
-  binnames:
-    - gcalcli
-  visiblename: gcalcli
-  version: 4.3.0
-  origversion: 4.3.0-1
-  status: outdated
-  maintainers:
-    - debian@onerussian.com
-    - unit193@debian.org
-  categories:
-    - utils
-- repo: parrot
-  subrepo: parrot-updates/main
-  srcname: gcalcli
-  binnames:
-    - gcalcli
-  visiblename: gcalcli
-  version: 4.5.1
-  origversion: 4.5.1-1
-  status: newest
-  maintainers:
-    - debian@onerussian.com
-    - unit193@debian.org
-  categories:
-    - utils
-- repo: parrot
-  subrepo: parrot/main
-  srcname: gcalcli
-  binnames:
-    - gcalcli
-  visiblename: gcalcli
-  version: 4.5.1
-  origversion: 4.5.1-1
-  status: newest
-  maintainers:
-    - debian@onerussian.com
-    - unit193@debian.org
-  categories:
-    - utils
 - repo: pureos_amber
   subrepo: amber/main
   srcname: gcalcli
