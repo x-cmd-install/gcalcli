@@ -50,22 +50,22 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 4 · **Merged PRs**: 176 · **Open PRs**: 14 · **Closed issues**: 458 · **Open issues**: 162 · **Commits**: 616
+- **Releases**: 4 · **Merged PRs**: 176 · **Open PRs**: 16 · **Closed issues**: 458 · **Open issues**: 162 · **Commits**: 616
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 0 | 1 | 0 | 3 | 0 |
-| last60d | 2026-09-25 | 0 | 0 | 2 | 0 | 6 | 0 |
-| 90d | 2026-08-26 | 0 | 0 | 2 | 0 | 6 | 0 |
-| last180d | 2026-05-28 | 0 | 0 | 2 | 0 | 7 | 0 |
-| 360d | 2025-11-29 | 0 | 0 | 11 | 0 | 15 | 0 |
-| last720d | 2024-12-04 | 0 | 5 | 11 | 11 | 31 | 6 |
+| 30d | 2026-10-26 | 0 | 0 | 3 | 0 | 3 | 0 |
+| last60d | 2026-09-26 | 0 | 0 | 4 | 0 | 6 | 0 |
+| 90d | 2026-08-27 | 0 | 0 | 4 | 0 | 6 | 0 |
+| last180d | 2026-05-29 | 0 | 0 | 4 | 0 | 7 | 0 |
+| 360d | 2025-11-30 | 0 | 0 | 13 | 0 | 15 | 0 |
+| last720d | 2024-12-05 | 0 | 5 | 13 | 11 | 31 | 6 |
 
 ## Distribution status
 
-Reported by **46** distros on [repology.org](https://repology.org/project/gcalcli). **22** are ✅ on the latest upstream release, **22** are ⚠️ on an older version.
+Reported by **45** distros on [repology.org](https://repology.org/project/gcalcli). **22** are ✅ on the latest upstream release, **21** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -88,4 +88,4 @@ Install metadata for gcalcli lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:46:53Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:17:03Z._
