@@ -1,0 +1,136 @@
+about:
+  description: "Google Calendar Command Line Interface"
+  license: MIT
+  homepage: 
+  head: 405639c
+  archived: false
+  latestVersion: "v4.5.1"
+  latestRelease: "v4.5.1"
+  latestPrerelease: ""
+  collectedAt: 2026-11-28T07:34:39Z
+timeline:
+  created: 2012-04-25
+  lastCommit: 2025-10-25
+  lastVersion: 2024-10-04
+  lastRelease: 2024-10-04
+  lastPrerelease: 
+popularity:
+  star: 3790
+  watcher: 73
+  fork: 341
+  release: 4
+  contributor: 56
+  pullRequest: 261
+  issue: 620
+language:
+  Python: 210652
+  Shell: 981
+totalBytes: 211633
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 0
+    mergedPR: 0
+    openPR: 3
+    closedIssue: 1
+    openIssue: 1
+    commit: 0
+  last60d:
+    since: 2026-09-29
+    release: 0
+    mergedPR: 0
+    openPR: 4
+    closedIssue: 1
+    openIssue: 5
+    commit: 0
+  last90d:
+    since: 2026-08-30
+    release: 0
+    mergedPR: 0
+    openPR: 4
+    closedIssue: 1
+    openIssue: 5
+    commit: 0
+  last180d:
+    since: 2026-06-01
+    release: 0
+    mergedPR: 0
+    openPR: 4
+    closedIssue: 1
+    openIssue: 6
+    commit: 0
+  last360d:
+    since: 2025-12-03
+    release: 0
+    mergedPR: 0
+    openPR: 13
+    closedIssue: 1
+    openIssue: 14
+    commit: 0
+  last720d:
+    since: 2024-12-08
+    release: 0
+    mergedPR: 5
+    openPR: 13
+    closedIssue: 12
+    openIssue: 30
+    commit: 6
+total:
+  release: 4
+  mergedPR: 176
+  openPR: 16
+  closedIssue: 459
+  openIssue: 161
+  commit: 616
+---
+path: /home/runner/.x-repo/github.com/insanum/gcalcli
+collectedAt: 2026-11-28T07:34:40Z
+loc:
+  Python:
+    code: 4626
+    comments: 284
+    blanks: 1009
+    files: 28
+  Json:
+    code: 3119
+    comments: 0
+    blanks: 0
+    files: 4
+  Toml:
+    code: 71
+    comments: 2
+    blanks: 12
+    files: 1
+  Ini:
+    code: 35
+    comments: 0
+    blanks: 6
+    files: 1
+  Sh:
+    code: 7
+    comments: 1
+    blanks: 1
+    files: 1
+  Autoconf:
+    code: 6
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 348
+    blanks: 157
+    files: 4
+  Text:
+    code: 0
+    comments: 54
+    blanks: 0
+    files: 1
+total:
+  code: 7910
+  comments: 693
+  blanks: 1192
+  files: 41
+---
+
+---
