@@ -46,28 +46,12 @@ x install gcalcli
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 0 | 3 | 1 | 1 | 0 |
-| last60d | 2026-09-28 | 0 | 0 | 4 | 1 | 5 | 0 |
-| 90d | 2026-08-29 | 0 | 0 | 4 | 1 | 5 | 0 |
-| last180d | 2026-05-31 | 0 | 0 | 4 | 1 | 6 | 0 |
-| 360d | 2025-12-02 | 0 | 0 | 13 | 1 | 14 | 0 |
-| last720d | 2024-12-07 | 0 | 5 | 13 | 12 | 30 | 6 |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/gcalcli) 上共有 **45** 个发行版报告此项目。**22** 个 ✅ 已是最新上游版本，**21** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Debian unstable | `4.5.1` | ✅ latest |
-| Debian 14 | `4.5.1` | ✅ latest |
-| Debian 13 | `4.5.1` | ✅ latest |
-| Ubuntu 26.04 LTS | `4.5.1` | ✅ latest |
-| Ubuntu 24.04 LTS | `4.3.0` | ⚠️ outdated |
-| Homebrew | `4.5.1` | ✅ latest |
-| Nix unstable | `4.5.1` | ✅ latest |
-| Void | `4.3.0` | ⚠️ outdated |
-| openSUSE Tumbleweed | `4.3.0` | ⚠️ outdated |
+| 30d | 2026-10-29 | 0 | 0 | 3 | 1 | 1 | 0 |
+| last60d | 2026-09-29 | 0 | 0 | 4 | 1 | 5 | 0 |
+| 90d | 2026-08-30 | 0 | 0 | 4 | 1 | 5 | 0 |
+| last180d | 2026-06-01 | 0 | 0 | 4 | 1 | 6 | 0 |
+| 360d | 2025-12-03 | 0 | 0 | 13 | 1 | 14 | 0 |
+| last720d | 2024-12-08 | 0 | 5 | 13 | 12 | 30 | 6 |
 
 ## 改进这些数据
 
@@ -78,4 +62,4 @@ gcalcli 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T08:11:46Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T07:35:00Z._
